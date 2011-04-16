@@ -1,0 +1,4 @@
+A few years ago, I was trying to make a sensor that could record the temperature
+in Munin with RRDTool. I then used the four analog inputs of the game port of my
+old P4. I remember having struggled to find the doc on how to program with the
+game port so here's my piece of code hoping it will help someone ;).
