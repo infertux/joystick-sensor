@@ -1,0 +1,17 @@
+Game port (DA-15)
+-----------------
+Pin 1   +5V     +5V DC
+Pin 2   B1      Button 1
+Pin 3   X1      X axis for joystick 1 (0–100 kΩ)
+Pin 4   GND     Ground for B1
+Pin 5   GND     Ground for B2
+Pin 6   Y1      Y axis for joystick 1 (0–100 kΩ)
+Pin 7   B2      Button 2
+Pin 8   +5V     +5V DC
+Pin 9   +5V     +5V DC
+Pin 10  B4      Button 4
+Pin 11  X2      X axis for joystick 2 (0–100 kΩ)
+Pin 12  GND     Ground for buttons 3 and 4 (or MIDI out)
+Pin 13  Y2      Y axis for joystick 2 (0–100 kΩ)
+Pin 14  B3      Button 3
+Pin 15  +5V     +5V DC
